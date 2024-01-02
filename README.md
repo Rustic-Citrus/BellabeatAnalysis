@@ -11,7 +11,7 @@
 ## Contents
 
 1. [Introduction](#introduction)
-2. [Method](#method)
+2. [Method](#methodology)
 3. [Results](#results)
     1. [Daily Averages](#daily-averages)
     2. [Minute-Level Data](#minute-level-data)
